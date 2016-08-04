@@ -1,0 +1,57 @@
+# 
+# Wavefront OBJ file
+# aXYZ design (c) Copyright 2006
+# http://www.axyz-design.com/
+# 
+
+newmtl Bike0002_Frame
+Ka 0 0 0
+Kd 0.792157 0 0.0196078
+Ks 0.720863 0 0.0178431
+illum 2
+Ns 608.874
+map_Kd images\Bike0002.bmp
+
+newmtl Bike0002_Metal
+Ka 0 0 0
+Kd 0.458824 0.458824 0.458824
+Ks 0.410647 0.410647 0.410647
+illum 2
+Ns 93.7015
+
+newmtl Bike0002_Chrome
+Ka 0 0 0
+Kd 0.180392 0.180392 0.180392
+Ks 0.144314 0.144314 0.144314
+illum 2
+Ns 256
+
+newmtl Bike0002_Chain
+Ka 0 0 0
+Kd 0.180392 0.180392 0.180392
+Ks 0 0 0
+illum 2
+Ns 8
+
+newmtl Bike0002_Rubber
+Ka 0 0 0
+Kd 0.141176 0.141176 0.141176
+Ks 0 0 0
+illum 2
+Ns 8
+
+newmtl Bike0002_Weel
+Ka 0 0 0
+Kd 0.180392 0.180392 0.180392
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd images\Bike0002.bmp
+
+newmtl CMan0020
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd images\CMan0020-D.bmp
