@@ -1,6 +1,8 @@
 # Burning Man VR
 A simple attempt to create the playa within a Room Scale environment.
 
+A satirical video of the experience: https://www.youtube.com/watch?v=CfpYzFFkn-U
+
 ## Current Features
 - major recognizable landmarks: The Man, A Temple (2007), Church Trap, and a bonus, The Sisya (2016 art)
 - somewhat dynamic duststorm (generated on a curve to ensure participants experience one within the first couple of minutes)
